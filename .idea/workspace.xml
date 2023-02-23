@@ -1,8 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="12efd692-e313-4d76-9bb7-31855072cf2c" name="Changes" comment="update">
+    <list default="true" id="12efd692-e313-4d76-9bb7-31855072cf2c" name="Changes" comment="updated">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/HelloWorld.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/HelloWorld.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -39,7 +40,7 @@
     &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;
   }
 }</component>
-  <component name="RunManager" selected="Application.basic">
+  <component name="RunManager" selected="Application.HelloWorld">
     <configuration name="HelloWorld" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="HelloWorld" />
       <module name="Belal_Gu" />
@@ -56,8 +57,8 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.basic" />
         <item itemvalue="Application.HelloWorld" />
+        <item itemvalue="Application.basic" />
       </list>
     </recent_temporary>
   </component>
@@ -98,7 +99,14 @@
       <option name="project" value="LOCAL" />
       <updated>1673183169377</updated>
     </task>
-    <option name="localTasksCounter" value="5" />
+    <task id="LOCAL-00005" summary="updated">
+      <created>1673200891140</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1673200891140</updated>
+    </task>
+    <option name="localTasksCounter" value="6" />
     <servers />
   </component>
   <component name="Vcs.Log.History.Properties">
@@ -138,6 +146,7 @@
   <component name="VcsManagerConfiguration">
     <MESSAGE value="new" />
     <MESSAGE value="update" />
-    <option name="LAST_COMMIT_MESSAGE" value="update" />
+    <MESSAGE value="updated" />
+    <option name="LAST_COMMIT_MESSAGE" value="updated" />
   </component>
 </project>
