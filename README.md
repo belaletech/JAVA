@@ -4,7 +4,7 @@ This repository is designed for Java beginners who are looking for a comprehensi
 
  skills.
 
-**Getting Started**
+<h1>Getting Started</h1>
 
 To get started, you will need to have the following tools and software installed on your computer:
 
@@ -13,7 +13,7 @@ To get started, you will need to have the following tools and software installed
 
 Once you have the necessary tools installed, you can start exploring the repository and practicing your coding skills.
 
-***Repository Contents***
+<h1>Repository Contents</h1>
 
 The repository contains the following contents:
 
@@ -25,11 +25,11 @@ The repository contains the following contents:
 
 ***Resources:*** This folder contains various resources, such as books, online courses, and tutorials that can help you improve your Java programming skills.
 
-**Contributing**
+<h1>Contributing</h1>
 
 If you have any ideas or suggestions for improving this repository, please feel free to create a pull request. Your contributions are highly appreciated and will help make this repository a valuable resource for Java beginners.
 
-**Contact**
+<h1>Contact</h1>
 
 If you have any questions or comments about this repository, please feel free to contact me through LinkedIn: https://www.linkedin.com/in/belal-ahmad-a73726222/
 
