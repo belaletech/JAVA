@@ -2,10 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="12efd692-e313-4d76-9bb7-31855072cf2c" name="Changes" comment="array">
-      <change afterPath="$PROJECT_DIR$/src/Demo.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/fabonacci.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Basic/hello.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/basic.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/basic.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -44,7 +42,7 @@
 }</component>
   <component name="RunManager" selected="Application.basic">
     <configuration name="HelloWorld" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="HelloWorld" />
+      <option name="MAIN_CLASS_NAME" value="Basic.HelloWorld" />
       <module name="Belal_Gu" />
       <method v="2">
         <option name="Make" enabled="true" />
