@@ -2,12 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="12efd692-e313-4d76-9bb7-31855072cf2c" name="Changes" comment="array">
-      <change afterPath="$PROJECT_DIR$/src/Basic/primeNO.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Inheritance/Addition.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Inheritance/SingleInheritance.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Basic/factor.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Basic/fabonacci.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Inheritance/Vehicles.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Inheritance/Vehicles.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -45,14 +41,7 @@
     &quot;SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;
   }
 }</component>
-  <component name="RunManager" selected="Application.primeNO">
-    <configuration name="HelloWorld" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Basic.HelloWorld" />
-      <module name="Belal_Gu" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
+  <component name="RunManager" selected="Application.factor">
     <configuration name="XUV" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="Inheritance.XUV" />
       <module name="Belal_Gu" />
@@ -86,6 +75,19 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="factor" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Basic.factor" />
+      <module name="Belal_Gu" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Basic.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="primeNO" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="Basic.primeNO" />
       <module name="Belal_Gu" />
@@ -101,11 +103,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.factor" />
         <item itemvalue="Application.primeNO" />
         <item itemvalue="Application.easy" />
         <item itemvalue="Application.basic" />
         <item itemvalue="Application.XUV" />
-        <item itemvalue="Application.HelloWorld" />
       </list>
     </recent_temporary>
   </component>
@@ -218,5 +220,10 @@
         <breakpoint enabled="true" type="java-exception" />
       </default-breakpoints>
     </breakpoint-manager>
+  </component>
+  <component name="com.intellij.coverage.CoverageDataManagerImpl">
+    <SUITE FILE_PATH="coverage/Belal_Gu$primeNO.ic" NAME="primeNO Coverage Results" MODIFIED="1683057578934" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false">
+      <FILTER>Basic.*</FILTER>
+    </SUITE>
   </component>
 </project>
